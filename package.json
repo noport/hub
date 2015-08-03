@@ -1,0 +1,24 @@
+{
+  "name": "hub",
+  "version": "0.1.0",
+  "description": "Hub for No Port",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "webrtc",
+    "codelab"
+  ],
+  "author": "webrtc",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "~0.7.1",
+    "socket.io": "~1.0.0",
+    "express": "~3.4.0"
+  }
+}
